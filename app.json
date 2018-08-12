@@ -2,8 +2,8 @@
     "name": "HELPq",
     "description": "An extensible, customizable real-time queue system",
     "env": {
-        "ROOT_URL": "https://shehacks.herokuapp.com/",
-        "ADMIN_PASSWORD": "shehacksboston2019",
+        "ROOT_URL": "https://techtogether.herokuapp.com/",
+        "ADMIN_PASSWORD": "techtogether2019",
         "ADMIN_USERNAME": "admin",
         "DEFAULT_MENTOR": "true",
         "FACEBOOK_CLIENT_ID": "facebook-client-id",
